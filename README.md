@@ -1,4 +1,4 @@
-# MIDI_Config_OP-Z_Moog_Sirin
+# OP-Z MIDI config for Moog Sirin
 This is a custom MIDI mapping configuration made for the OP-Z to control the Moog Sirin's sound parameters. 
 
 The purpose of this OP-Z MIDI configuration is to create a set of controls, that when given random values, provide some interesting changes in timbre to the voices on the Moog Sirin. This is meant to aid in quick randomized sound design type changes on the synth. It can be used as a controller with automation, but the idea was to give you control over as many sound oriented parameters on the Moog Sirin so you can go deep in changing wave forms, timbre, tunings, lfo’s and amp envelopes. 
